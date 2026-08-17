@@ -8,6 +8,7 @@
 ## Ascension Endless Match
 
 - [Privacy Policy](https://hollowflame-gm.github.io/privacy-policy.html)
+- [Support](https://hollowflame-gm.github.io/ascension-support.html)
 
 ## Contact
 
