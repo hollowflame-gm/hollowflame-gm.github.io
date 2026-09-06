@@ -10,6 +10,10 @@
 - [Privacy Policy](https://hollowflame-gm.github.io/privacy-policy.html)
 - [Support](https://hollowflame-gm.github.io/ascension-support.html)
 
+## Ascension: Road to Freedom
+
+- [Android Privacy Policy](https://hollowflame-gm.github.io/roadtofreedom-android-privacy-policy.html)
+
 ## Contact
 
 hollowflame.gm@gmail.com
