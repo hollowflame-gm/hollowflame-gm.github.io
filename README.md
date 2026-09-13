@@ -12,7 +12,9 @@
 
 ## Ascension: Road to Freedom
 
+- [Privacy Policy (iOS)](https://hollowflame-gm.github.io/roadtofreedom-privacy-policy.html)
 - [Android Privacy Policy](https://hollowflame-gm.github.io/roadtofreedom-android-privacy-policy.html)
+- [Support](https://hollowflame-gm.github.io/roadtofreedom-support.html)
 
 ## Contact
 
