@@ -16,6 +16,11 @@
 - [Android Privacy Policy](https://hollowflame-gm.github.io/roadtofreedom-android-privacy-policy.html)
 - [Support](https://hollowflame-gm.github.io/roadtofreedom-support.html)
 
+## Ascension Endless: Cinderdeep
+
+- [Privacy Policy](https://hollowflame-gm.github.io/cinderdeep-privacy-policy.html)
+- [Support](https://hollowflame-gm.github.io/cinderdeep-support.html)
+
 ## Contact
 
 hollowflame.gm@gmail.com
